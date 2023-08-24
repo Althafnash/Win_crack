@@ -1,0 +1,30 @@
+    
+VirtualBox Host-Only Network:
+Node IpAddress: [192.168.56.1] Scope Id: []
+
+    No Connections
+    
+Npcap Loopback Adapter:
+Node IpAddress: [169.254.49.97] Scope Id: []
+
+    No Connections
+    
+Ethernet:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    No Connections
+    
+WiFi:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    No Connections
+    
+Local Area Connection* 9:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    No Connections
+    
+Local Area Connection* 12:
+Node IpAddress: [192.168.137.1] Scope Id: []
+
+    No Connections

@@ -1,0 +1,57 @@
+                                                            PROJECT NNT 
+
+Welcome to nash network tool (NNT)
+
+This is an networking tool which can be used to get information and digonouses about the Network This is works on Windows . This uses the windows network shell (Netsh) to get information  . Run the create _New .bat file  
+
+There are batch files  which will Appear after you run and run the batch file you want the output will be saved on the relavent folder  
+
+eg: if you run the Firewall batch file the output will be inside a folder Khow as Firewall
+ 
+1.Target_info 
+gives the machine details such as 
+                  :  System Task 
+                  : Sytem Details
+                  : Inatalled apps
+                  : WIFI interfaces 
+                  : IP coonfigration 
+
+2. Firewall 
+This checand give information about such as
+                                      : Firewall details  
+                                      : current state of the firewall 
+
+3. IPV4 
+This give details on IPV4 such as 
+                  : IP address
+                  : IPV4 offload 
+                  : IPV4 Dynamicportrange 
+                  : IPV4 compartments
+                  : IPV4 config
+                  : IPV4 excludedportrange 
+                  : ipv4 global
+                  : ipv4 icmpstats
+                  : ipv4 interfaces 
+                  : ipv4 ipnettomedia 
+                  : ipv4 ipstats
+                  : ipv4 joins 
+                  : ipv4  subinterfaces  
+                  : ipv4 neighbors
+                  : ipv4 tcpconnections 
+                  : ipv4 udpstats 
+                  : ipv4 winsservers
+
+4. TCP
+Give Transmission controp protocal / internet protcol (TCP/IP) informtion
+                 :  TCP heuristics 
+                 : TCP supplemental 
+                 : TCP supplementalports
+                 : TCP supplementalsubnets
+                 : TCP security 
+
+
+
+
+
+
+

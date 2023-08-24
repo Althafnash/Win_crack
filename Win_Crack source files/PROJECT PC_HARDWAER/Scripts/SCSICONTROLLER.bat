@@ -1,0 +1,5 @@
+@echo off 
+cd ../Output
+mkdir SCSICONTROLLER
+cd SCSICONTROLLER
+wmic SCSICONTROLLER > SCSICONTROLLER.txt

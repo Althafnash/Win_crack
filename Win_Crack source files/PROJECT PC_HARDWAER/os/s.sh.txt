@@ -1,0 +1,7 @@
+sudo apt.install  roxxios                                            
+sudo apt.install  grub                                            
+sudo apt.install  gcc
+sudo apt.install  nasm                                            
+sudo apt.install  visualbox                                            
+sudo apt.install  qemu                            
+sudo apt.install  gedit    optinal                                                                                                                             

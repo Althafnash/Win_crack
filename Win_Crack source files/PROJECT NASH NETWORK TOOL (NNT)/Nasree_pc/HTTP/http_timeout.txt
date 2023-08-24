@@ -1,0 +1,7 @@
+
+HTTP service timeouts: 
+---------------------- 
+
+Idle connection timeout (secs): 120
+Header wait timeout (secs): 120
+

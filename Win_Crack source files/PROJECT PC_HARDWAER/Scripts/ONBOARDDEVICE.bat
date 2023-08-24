@@ -1,0 +1,5 @@
+@echo off 
+cd ../Output
+mkdir ONBOARDDEVICE
+cd ONBOARDDEVICE
+wmic ONBOARDDEVICE > ONBOARDDEVICE.txt

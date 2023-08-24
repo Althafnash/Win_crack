@@ -1,0 +1,5 @@
+@echo off 
+cd ../Output
+mkdir COMPUTERSYSTEM
+cd COMPUTERSYSTEM
+wmic COMPUTERSYSTEM > COMPUTERSYSTEM.txt

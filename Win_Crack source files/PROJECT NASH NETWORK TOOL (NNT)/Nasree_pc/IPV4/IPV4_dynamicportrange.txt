@@ -1,0 +1,20 @@
+One or more essential parameters were not entered.
+Verify the required parameters, and reenter them.
+The syntax supplied for this command is not valid. Check help for the correct syntax.
+
+Usage: show dynamicportrange [protocol=]tcp|udp
+             [[store=]active|persistent]
+
+Parameters:
+
+      Tag         Value
+      protocol  - One of the following values:
+                  tcp: Show the dynamic port range for TCP.
+                  udp: Show the dynamic port range for UDP.
+      store     - One of the following values:
+                  active: Show information in the stack (default).
+                  persistent: Show persistent information.
+
+Remarks: Shows dynamic port range configuration parameters.
+
+

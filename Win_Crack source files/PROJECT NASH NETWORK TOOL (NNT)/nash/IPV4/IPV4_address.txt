@@ -1,0 +1,18 @@
+
+Configuration for interface "Ethernet"
+    DHCP enabled:                         Yes
+    InterfaceMetric:                      5
+
+Configuration for interface "Npcap Loopback Adapter"
+    DHCP enabled:                         Yes
+    IP Address:                           169.254.49.97
+    Subnet Prefix:                        169.254.0.0/16 (mask 255.255.0.0)
+    InterfaceMetric:                      25
+
+Configuration for interface "VirtualBox Host-Only Network"
+    DHCP enabled:                         No
+    IP Address:                           192.168.56.1
+    Subnet Prefix:                        192.168.56.0/24 (mask 255.255.255.0)
+    InterfaceMetric:                      25
+
+Configuration for interface "Local Area Connection* 9"

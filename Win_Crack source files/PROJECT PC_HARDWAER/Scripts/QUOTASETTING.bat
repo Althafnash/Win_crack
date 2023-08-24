@@ -1,0 +1,5 @@
+@echo off 
+cd ../Output
+mkdir QUOTASETTING
+cd QUOTASETTING
+wmic QUOTASETTING > QUOTASETTING.txt

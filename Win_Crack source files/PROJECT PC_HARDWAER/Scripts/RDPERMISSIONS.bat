@@ -1,0 +1,5 @@
+@echo off 
+cd ../Output
+mkdir RDPERMISSIONS
+cd RDPERMISSIONS
+wmic RDPERMISSIONS > RDPERMISSIONS.txt

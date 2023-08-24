@@ -1,0 +1,5 @@
+@echo off 
+cd ../Output
+mkdir PORTCONNECTOR
+cd PORTCONNECTOR
+wmic PORTCONNECTOR > PORTCONNECTOR.txt

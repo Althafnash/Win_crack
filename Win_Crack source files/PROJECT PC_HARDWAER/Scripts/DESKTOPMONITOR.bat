@@ -1,0 +1,5 @@
+@echo off 
+cd ../Output
+mkdir DESKTOPMONITOR
+cd DESKTOPMONITOR
+wmic DESKTOPMONITOR > DESKTOPMONITOR.txt
