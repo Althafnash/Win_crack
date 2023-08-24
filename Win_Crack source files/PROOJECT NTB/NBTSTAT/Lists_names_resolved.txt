@@ -1,9 +1,0 @@
-
-    NetBIOS Names Resolution and Registration Statistics
-    ----------------------------------------------------
-
-    Resolved By Broadcast     = 0
-    Resolved By Name Server   = 0
-
-    Registered By Broadcast   = 104
-    Registered By Name Server = 0

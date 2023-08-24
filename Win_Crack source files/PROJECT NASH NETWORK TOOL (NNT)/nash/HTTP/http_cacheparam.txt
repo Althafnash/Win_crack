@@ -1,7 +1,0 @@
-
-HTTP service cache parameters:
---------------------------
-
-maxcacheresponsesize (per-uri cache limit): 262144 bytes
-cacherangechunksize (range chunk): 65536 bytes
-

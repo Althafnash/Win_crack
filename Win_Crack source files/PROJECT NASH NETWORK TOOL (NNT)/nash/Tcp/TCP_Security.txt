@@ -1,6 +1,0 @@
-Querying active state...
-
-----------------------------------------------
-Memory Pressure Protection        : disabled 
-Profiles                          : enabled 
-

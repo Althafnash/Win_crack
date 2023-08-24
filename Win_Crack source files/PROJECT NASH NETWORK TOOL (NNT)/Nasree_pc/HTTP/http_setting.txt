@@ -1,6 +1,0 @@
-
-HTTP service settings: 
----------------------- 
-
-Ssl Throttle : 0
-
